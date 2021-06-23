@@ -1,4 +1,4 @@
-# Matrix Methods of Linear Algebra [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####)
+# Matrix Methods of Linear Algebra [![View Matrix-Methods-of-Linear-Algebra on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
