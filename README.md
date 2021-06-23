@@ -2,7 +2,7 @@
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
-<img src="mvmult.gif" width="300">
+<img src="https://user-images.githubusercontent.com/81383420/123114228-2c6df880-d40d-11eb-90e6-922b1959de37.gif" width="300">
 
 ## Description ##
 This curriculum module contains interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach fundamental matrix methods commonly taught in introductory linear algebra courses. In the first part of each live script, students learn standard definitions, visualize concepts, and perform exercises on paper. Afterward, students practice complementary MATLAB&reg; methods. These methods reinforce the discussed concepts and help students to develop an early familiarity with computational software. Each lesson concludes with an illustrative application. These live scripts can be used as part of a lecture, as activities in an instructional setting, or as an interactive assignment to be completed outside of class.
