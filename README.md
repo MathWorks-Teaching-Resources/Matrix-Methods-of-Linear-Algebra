@@ -32,7 +32,7 @@ An interactive lesson that explores matrix representations of linear systems and
 - Apply matrix methods to linear regression and linear circuit analysis
 
 ## ##
-**`eigenAnalysis.mlx, eigenAnalysisApplications.mlx, eigenAnalysisSoln.mlx, eigenAnalysisApplicationsSoln.mlx`**  
+**`eigenanalysis.mlx, eigenanalysisApplications.mlx, eigenanalysisSoln.mlx, eigenanalysisApplicationsSoln.mlx`**  
 An interactive lesson that explores eigenvectors, eigenvalues, and their applications.
 
 **Learning Goals:**
