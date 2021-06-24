@@ -7,6 +7,8 @@ _Created with R2020b. Compatible with R2020b and later releases._
 ## Description ##
 This curriculum module contains interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach fundamental matrix methods commonly taught in introductory linear algebra courses. In the first part of each live script, students learn standard definitions, visualize concepts, and perform exercises on paper. Afterward, students practice complementary MATLAB&reg; methods. These methods reinforce the discussed concepts and help students to develop an early familiarity with computational software. Each lesson concludes with an illustrative application. These live scripts can be used as part of a lecture, as activities in an instructional setting, or as an interactive assignment to be completed outside of class.
 
+The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the Stop button in the RUN section of the Live Editor tab in the MATLAB Toolstrip.
+
 ## Details ##
 **`matrixOperations.mlx, matrixOperationsSoln.mlx`**  
 An interactive lesson that explores basic matrix operations.
