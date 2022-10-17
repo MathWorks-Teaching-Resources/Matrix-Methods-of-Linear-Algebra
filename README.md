@@ -1,13 +1,27 @@
-# Matrix Methods of Linear Algebra [![View Matrix-Methods-of-Linear-Algebra on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
+# Matrix Methods of Linear Algebra
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####)
+or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj)
+
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
-<img src="https://user-images.githubusercontent.com/81383420/123114228-2c6df880-d40d-11eb-90e6-922b1959de37.gif" width="300">
+<img src="mvmult.gif" width="300">
 
 ## Description ##
 This curriculum module contains interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach fundamental matrix methods commonly taught in introductory linear algebra courses. In the first part of each live script, students learn standard definitions, visualize concepts, and perform exercises on paper. Afterward, students practice complementary MATLAB&reg; methods. These methods reinforce the discussed concepts and help students to develop an early familiarity with computational software. Each lesson concludes with an illustrative application. These live scripts can be used as part of a lecture, as activities in an instructional setting, or as an interactive assignment to be completed outside of class.
 
 The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the Stop button in the RUN section of the Live Editor tab in the MATLAB Toolstrip.
+
+## Get started with the interactive examples ##
+
+**Option 1: Download to Desktop** Download and unzip the repository. Then, double-click the MatrixMethods.prj file inside MATLAB&reg;. 
+
+**Option 2: [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj)** Log in to your MathWorks account to access your license. If you are associated with a university, use your university email to access a license.
+
+- From there, you can follow the landing page instructions to get started with the examples. 
+- The instructions inside the live scripts will guide you through the exercises and activities. 
+- Get started with each live script by running it one section at a time. 
+- To stop running the script or a section midway (for example, if a loop is running longer than intended), click the <img src="https://user-images.githubusercontent.com/88841524/182219991-17ef7bf9-369b-4463-8de6-9e440ca3bc9b.png"> **Stop** button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
 ## Details ##
 **`matrixOperations.mlx, matrixOperationsSoln.mlx`**  
@@ -46,7 +60,7 @@ An interactive lesson that explores eigenvectors, eigenvalues, and their applica
 - Use eigenanalysis to understand vibrations and the long term behavior of a Markov chain
 
 ## Products ##
-MATLAB, Symbolic Math Toolbox&trade;, Image Processing Toolbox&trade;
+MATLAB, Symbolic Math Toolbox&trade;, Image Processing Toolbox&trade;, Statistics and Machine Learning Toolbox&trade;
 
 ## License ##
 The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
@@ -60,4 +74,4 @@ Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathw
 
 # #
 
-_Copyright 2021 The MathWorks, Inc._
+_Copyright 2021-2022 The MathWorks, Inc._
