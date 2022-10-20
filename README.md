@@ -1,11 +1,11 @@
 # Matrix Methods of Linear Algebra
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####)
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
 or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj)
 
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
-<img src="mvmult.gif" width="300">
+<img src="Images/mvmult.gif" width="300">
 
 ## Description ##
 This curriculum module contains interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach fundamental matrix methods commonly taught in introductory linear algebra courses. In the first part of each live script, students learn standard definitions, visualize concepts, and perform exercises on paper. Afterward, students practice complementary MATLAB&reg; methods. These methods reinforce the discussed concepts and help students to develop an early familiarity with computational software. Each lesson concludes with an illustrative application. These live scripts can be used as part of a lecture, as activities in an instructional setting, or as an interactive assignment to be completed outside of class.
