@@ -33,7 +33,7 @@ Use the [<img src="Images/image_1.png" width="136" alt="image_1.png">](https://m
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on [MatrixMethods.prj]("MatrixMethods.prj"). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on [MatrixMethods.prj](MatrixMethods.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
 Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the **Home** tab and select  <img src="Images/image_2.png" width="16" alt="image_2.png"> **Add-Ons** > **Get Add-Ons**. 
@@ -48,23 +48,23 @@ MATLAB® is used throughout. Tools from Symbolic Math Toolbox™, Statistics and
 
  *If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
 
-## [**MatrixOperations.mlx**](MatrixOperations.mlx)
+## [**MatrixOperations.mlx**](Scripts/MatrixOperations.mlx)
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> | **In this script, students will...** <br>-  Define matrices and their basic arithmetic operations <br>-  Calculate the result of matrix operations on paper and in MATLAB <br>-  Explain the size requirements of matrix operations <br>-  Compare symbolic and numeric matrix operations in MATLAB <br>-  Apply matrix methods to modify grayscale images | **Academic disciplines** <br>-  Linear algebra <br>-  Image processing  |
 | :-- | :-- | :-- |
 
-## [**LinearSystems.mlx**](LinearSystems.mlx)
+## [**LinearSystems.mlx**](Scripts/LinearSystems.mlx)
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> | **In this script, students will...** <br>-  Write a linear system in matrix form <br>-  Relate solutions of linear systems in 3-dimensions to their visualizations <br>-  Solve systems of linear equations using row-reduction and matrix inverses <br>-  Explain the solvability of a linear system in terms of the matrix determinant <br>-  Use MATLAB to solve linear systems | **Academic disciplines** <br>-  Linear algebra  |
 | :-- | :-- | :-- |
 
-## [**LinearSystemsApplications.mlx**](LinearSystemsApplications.mlx)
+## [**LinearSystemsApplications.mlx**](Scripts/LinearSystemsApplications.mlx)
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> | **In this script, students will...** <br>-  Apply matrix methods to linear regression and linear circuit analysis | **Academic disciplines** <br>-  Linear algebra <br>-  Statistical analysis <br>-  Circuit analysis  |
 | :-- | :-- | :-- |
 
-## [**Eigenanalysis.mlx**](Eigenanalysis.mlx)
+## [**Eigenanalysis.mlx**](Scripts/Eigenanalysis.mlx)
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> | **In this script, students will...** <br>-  Visualize eigenvectors in 2-dimensions <br>-  Solve for the eigenvalues and eigenvectors of a 2x2 matrix on paper and larger matrices using MATLAB <br>-  Diagonalize 2x2 matrices on paper and larger matrices in MATLAB <br>-  Explain linear system solvability in terms of eigenvalues <br>-  Discuss defective matrices | **Academic disciplines** <br>-  Linear algebra  |
 | :-- | :-- | :-- |
 
-## [**EigenanalysisApplications.mlx**](EigenanalysisApplications.mlx)
+## [**EigenanalysisApplications.mlx**](Scripts/EigenanalysisApplications.mlx)
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> | **In this script, students will...** <br>-  Use eigenanalysis to understand vibrations and the long term behavior of a Markov chain | **Academic disciplines** <br>-  Linear algebra <br>-  Physical systems <br>-  Statistical modeling  |
 | :-- | :-- | :-- |
 
