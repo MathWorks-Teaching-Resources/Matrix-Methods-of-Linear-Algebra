@@ -76,13 +76,20 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        Releases: [R2025b, R2026a]
+        Releases: [R2026a, R2026b]
     runs-on: ubuntu-latest
     env:
       MATLAB_PRODUCTS: >
         Symbolic_Math_Toolbox
         Image_Processing_Toolbox
         Statistics_and_Machine_Learning_Toolbox
+      # List required products above in the format shown (and uncomment them)
+      # Common products:
+      # Simulink
+      # Simscape
+      # Statistics_and_Machine_Learning_Toolbox
+      # Symbolic_Math_Toolbox
+      # Deep_Learning_Toolbox
       LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
@@ -169,11 +176,14 @@ jobs:
 
       # Deploy reports to GitHub pages
       - name: Setup Pages
+        if: ${{ always() && github.event_name != 'pull_request' }}
         uses: actions/configure-pages@v5
       - name: Upload pages artifact
+        if: ${{ always() && github.event_name != 'pull_request' }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
       - name: Deploy to GitHub Pages
+        if: ${{ always() && github.event_name != 'pull_request' }}
         id: deployment
         uses: actions/deploy-pages@v4

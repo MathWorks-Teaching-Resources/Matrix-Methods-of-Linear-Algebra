@@ -2,13 +2,13 @@
 # <span style="color:rgb(213,80,0)">Matrix Methods of Linear Algebra</span>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README.m)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Matrix-Methods-of-Linear-Algebra/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Matrix-Methods-of-Linear-Algebra)
 
 **Curriculum Module**
 
-_Created with R2024a. Compatible with R2024a and later releases._
+This version requires MATLAB R2025a or newer. For MATLAB R2024b or older, use the [legacy MLX release](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra/releases/tag/mlx).
 
 # Information
 
@@ -35,7 +35,7 @@ Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https:/
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [MatrixMethods.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README.mlx). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [MatrixMethods.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README.m). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start.
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
@@ -46,31 +46,31 @@ Ensure you have all the required products (listed below) installed. If you need 
 MATLAB® is used throughout. Tools from Symbolic Math Toolbox™, Statistics and Machine Learning Toolbox™, and Image Processing Toolbox™ are used as well.
 
 # Scripts
-## [**MatrixOperations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/MatrixOperations.mlx)
+## [**MatrixOperations.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/MatrixOperations.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ Define matrices and their basic arithmetic operations <br> $\bullet$ Calculate the result of matrix operations on paper and in MATLAB <br> $\bullet$ Explain the size requirements of matrix operations <br> $\bullet$ Compare symbolic and numeric matrix operations in MATLAB <br> $\bullet$ Apply matrix methods to modify grayscale images <br>  | **Academic disciplines** <br> $\bullet$ Linear algebra <br> $\bullet$ Image processing <br>   |
 |      |      |       |
 
-## [**LinearSystems.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/LinearSystems.mlx)
+## [**LinearSystems.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/LinearSystems.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ Write a linear system in matrix form <br> $\bullet$ Relate solutions of linear systems in 3\-dimensions to their visualizations <br> $\bullet$ Solve systems of linear equations using row\-reduction and matrix inverses <br> $\bullet$ Explain the solvability of a linear system in terms of the matrix determinant <br> $\bullet$ Use MATLAB to solve linear systems <br>  | **Academic disciplines** <br> $\bullet$ Linear algebra <br>   |
 |      |      |       |
 
-## [**LinearSystemsApplications.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/LinearSystemsApplications.mlx)
+## [**LinearSystemsApplications.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/LinearSystemsApplications.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ Apply matrix methods to linear regression and linear circuit analysis <br>  | **Academic disciplines** <br> $\bullet$ Linear algebra <br> $\bullet$ Statistical analysis <br> $\bullet$ Circuit analysis <br>   |
 |      |      |       |
 
-## [**Eigenanalysis.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/Eigenanalysis.mlx)
+## [**Eigenanalysis.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/Eigenanalysis.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ Visualize eigenvectors in 2\-dimensions <br> $\bullet$ Solve for the eigenvalues and eigenvectors of a 2x2 matrix on paper and larger matrices using MATLAB <br> $\bullet$ Diagonalize 2x2 matrices on paper and larger matrices in MATLAB <br> $\bullet$ Explain linear system solvability in terms of eigenvalues <br> $\bullet$ Discuss defective matrices <br>  | **Academic disciplines** <br> $\bullet$ Linear algebra <br>   |
 |      |      |       |
 
-## [**EigenanalysisApplications.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/EigenanalysisApplications.mlx)
+## [**EigenanalysisApplications.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/EigenanalysisApplications.m)
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ Use eigenanalysis to understand vibrations and the long term behavior of a Markov chain <br>  | **Academic disciplines** <br> $\bullet$ Linear algebra <br> $\bullet$ Physical systems <br> $\bullet$ Statistical modeling <br>   |
@@ -100,6 +100,6 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
- *©* Copyright 2025 The MathWorks, Inc
+ *©* Copyright 2025-2026 The MathWorks, Inc
 
 
